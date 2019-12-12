@@ -4,21 +4,21 @@ end
 
 def my_hash 
   {
-  :monkey = "Banana"
+  :monkey => "Banana"
 }
   
 end
 
 def pioneer 
   {
-  :name = 'Grace Hopper'
+  :name => 'Grace Hopper'
 }
   
 end
 
 def id_generator 
   {
-  :id = 6
+  :id => 6
 }
   # return a hash with a key :id assigned to positive integer
 end
