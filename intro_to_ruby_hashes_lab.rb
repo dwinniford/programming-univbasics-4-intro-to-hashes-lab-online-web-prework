@@ -1,19 +1,23 @@
-def new_hash = {}
+def new_hash 
+  {}
 end
 
-def my_hash = {
+def my_hash 
+  {
   :monkey = "Banana"
 }
   
 end
 
-def pioneer = {
+def pioneer 
+  {
   :name = 'Grace Hopper'
 }
   
 end
 
-def id_generator {
+def id_generator 
+  {
   :id = 6
 }
   # return a hash with a key :id assigned to positive integer
